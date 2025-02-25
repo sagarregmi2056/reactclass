@@ -1,13 +1,10 @@
 import "./App.css";
-import Navbar from "./components/Navbar";
-import Landingpage from "./pages/Landingpage";
+import FormHandling from "./components/FormHandling";
 
 function App() {
   return (
     <>
-      <Navbar />
-
-      <Landingpage />
+      <FormHandling />
     </>
   );
 }

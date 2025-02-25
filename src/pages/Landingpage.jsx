@@ -1,14 +1,8 @@
-import React from "react";
-import Sidebar from "../components/Sidebar";
-
 import Card from "../components/Card";
 
 const Landingpage = () => {
   return (
     <div>
-
-    <Hero/>
-
       <Card title="Card title1111" name="Card name3333" img="./image.png" />
       <Card title="Card title22222" name="Card name222" img="./image2.png" />
       <Card title="Card title44444" name="Card name1111" img="./image.png" />
@@ -28,3 +22,11 @@ const Landingpage = () => {
 };
 
 export default Landingpage;
+
+// hook haru
+// routing
+// icons, css
+// api call crud
+
+// set
+// get
